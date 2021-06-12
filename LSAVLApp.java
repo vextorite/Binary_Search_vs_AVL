@@ -1,7 +1,3 @@
-// Hussein's AVL Tree
-// 2 April2017
-// Hussein Suleman
-
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
