@@ -1,6 +1,6 @@
 // Hussein's Binary Search Tree
 // 27 March 2017
-// Hussein Suleman
+// Hussein Suleman, Modified by Sanele Hlongwane
 
 public class BinarySearchTree extends BinaryTree
 
