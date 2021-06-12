@@ -1,6 +1,6 @@
 // Hussein's AVL Tree
 // 2 April 2017
-// Hussein Suleman
+// Hussein Suleman, Modified by Sanele Hlongwane
 // reference: kukuruku.co/post/avl-trees/
 
 public class AVLTree extends BinaryTree
